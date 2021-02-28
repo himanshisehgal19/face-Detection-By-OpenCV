@@ -1,1 +1,0 @@
-# face-Detection-By-OpenCV
